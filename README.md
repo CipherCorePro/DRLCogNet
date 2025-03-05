@@ -1,4 +1,5 @@
 # DRLCogNet: Dynamisches, Lernfähiges Kognitives Netzwerk
+![logo](https://github.com/user-attachments/assets/18748ffd-43cb-4d37-a8f8-bb871f5af641)
 
 **Programmübersicht: DRLCogNet – Ein flexibles, selbstlernendes System für komplexe Informationsverarbeitung**
 
